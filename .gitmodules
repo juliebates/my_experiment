@@ -8,3 +8,7 @@
 	url = https://github.com/juliebates/ds001907-EDU.git
 	datalad-id = 329dc514-71cb-11e9-aef8-0242ac13000f
 	datalad-url = https://github.com/juliebates/ds001907-EDU.git
+[submodule "code/simple_workflow"]
+	path = code/simple_workflow
+	url = https://github.com/proj-nuisance/simple_workflow
+	datalad-url = https://github.com/proj-nuisance/simple_workflow
